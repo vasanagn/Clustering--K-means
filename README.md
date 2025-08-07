@@ -4,9 +4,9 @@
 
 
 ## Overview
-The **goal** of this project is to create clusters of airport travelers.
+The **goal** of this project is to create clusters of airport passengers.
 
-The [dataset](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction) includes airport travelers data.
+The [dataset](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction) includes airport passengers data.
 
 ## Technologies Used
 - `numpy` - version 2.2.5
